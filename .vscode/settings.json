@@ -1,0 +1,23 @@
+{
+  "liveServer.settings.CustomBrowser": "chrome",
+  "liveServer.settings.fullReload": true,
+  "files.autoSave": "onWindowChange",
+  "editor.insertSpaces": false,
+  "editor.autoClosingBrackets": "always",
+  "editor.autoIndent": "none",
+  "editor.comments.insertSpace": false,
+  "editor.trimAutoWhitespace": false,
+  "javascript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false,
+  "javascript.format.insertSpaceAfterKeywordsInControlFlowStatements": false,
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingEmptyBraces": false,
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": false,
+  "javascript.format.insertSpaceAfterSemicolonInForStatements": false,
+  "javascript.format.insertSpaceBeforeAndAfterBinaryOperators": false,
+  "typescript.format.insertSpaceAfterCommaDelimiter": false,
+  "typescript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false,
+  "typescript.format.insertSpaceAfterKeywordsInControlFlowStatements": false,
+  "typescript.format.insertSpaceAfterOpeningAndBeforeClosingEmptyBraces": false,
+  "autoimport.spaceBetweenBraces": false,
+  "javascript.format.insertSpaceAfterCommaDelimiter": false,
+  "git.ignoreLimitWarning": true
+}
